@@ -4,30 +4,17 @@
 
 # **Pedro Campos**
 
+## 🛠️ Tecnologias & Ferramentas
+
 <div align="center">
 
-## Desenvolvedor Back-End
+| **Backend & Scripting** | **Desenvolvimento Web** | **Bancos de Dados** | **Ferramentas & Ecossistema** |
+| :---: | :---: | :---: | :---: |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white) |
+| ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white) |  | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |  |
 
-  ### - 🛠 &nbsp;Skills
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-  ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=Lua)&nbsp;
-  ![NodeJS](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)&nbsp;
-
-  ### - 🛢 &nbsp;Database
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
-  ![MariaDB](https://img.shields.io/badge/MariaDB-333333?style=flat&logo=mariadb&)
-
-  ### - ⚙️ &nbsp;Tools
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-  ![Git](https://img.shields.io/badge/--git--?logo=git&label=Git&labelColor=%232F3136&color=%232F3136)
-
-  ### - 🔧 &nbsp;Editors
-  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  
-  ### - 📌 &nbsp;Others
-  ![FiveM](https://img.shields.io/badge/-FiveM-333333?style=flat&logo=fivem&logoColor=ea7600)&nbsp;
 </div>
 
 ### 📫 Contact Me
